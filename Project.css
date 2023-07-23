@@ -1,0 +1,40 @@
+* {
+    background-color: darkgray;
+}
+
+h1 {
+    color: red;
+    text-align: right;
+    margin-right: 250px;
+    margin-top: 100px;
+}
+
+.imgcontainer p {
+    text-align: center;
+    margin-top: 0px;
+    margin-right: 550px;
+}
+
+.imgcontainer {
+    text-align: center;
+    margin: 24px 0 12px 0;
+}
+
+img.avatar {
+    width: 20%;
+    justify-content: left;
+    border-radius: 50%;
+}
+
+img {
+    float: left;
+    margin-left: 450px;
+    margin-right: 10px;
+    margin-top: -100px;
+}
+
+.information {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
